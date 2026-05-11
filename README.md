@@ -37,7 +37,7 @@ After a few bug fixes, the system was finished!
 2. Open it in Roblox Studio
 3. Go to `ServerScriptService > Global > Message > GlobalMessageHandler`
 4. Replace the admin UserId with your own UserId
-5. Start the game, type a message in the top-left corner, and press send
+5. Start the game, type a message in the bottom-left corner, and press send
 
 ⚠️ Make sure "Enable Studio Access to API Services" is turned on in Game Settings > Security, otherwise MessagingService will not work.
 
