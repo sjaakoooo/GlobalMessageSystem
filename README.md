@@ -1,5 +1,5 @@
 # 🌍 GlobalMessageSystem
-A lightweight cross-server messaging system for Roblox developers.
+A lightweight cross-server messaging system for Roblox developers.  
 Send messages instantly to all servers in your game with admin control and a clean UI.
 
 ## 🚀 Features
